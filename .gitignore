@@ -1,0 +1,8 @@
+.Spotlight*
+.Trashes
+.fseventsd
+opencore*
+**/._*
+**/.DS_Store
+**/.contentFlavour
+
